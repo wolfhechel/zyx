@@ -14,7 +14,8 @@ setup(
         'pyelftools'
     ],
     packages=[
-        'zyx'
+        'zyx',
+        'zyx.commands'
     ],
     description='Zyxel utilities',
     entry_points={
